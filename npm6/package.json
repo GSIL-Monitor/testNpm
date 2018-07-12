@@ -1,0 +1,12 @@
+{
+  "name": "yarn-multiple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "stylus-unit": "0.0.4",
+    "react-dom-utils": "2.0.0",
+    "naf": "0.0.1",
+    "thick": "0.0.6"
+  }
+}
